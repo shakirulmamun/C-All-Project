@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\PICalculation\PICalculation\bin\Debug\PICalculation.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\PICalculation\PICalculation\bin\Debug\PICalculation.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\PICalculation\PICalculation\bin\Debug\PICalculation.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\PICalculation\PICalculation\obj\Debug\PICalculation.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\PICalculation\PICalculation\obj\Debug\PICalculation.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\PICalculation\PICalculation\obj\Debug\PICalculation.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\PICalculation\PICalculation\obj\Debug\PICalculation.pdb

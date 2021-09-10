@@ -1,0 +1,6 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\ifelse\bin\Debug\ifelse.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\ifelse\bin\Debug\ifelse.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\ifelse\bin\Debug\ifelse.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\ifelse\obj\Debug\ifelse.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\ifelse\obj\Debug\ifelse.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\ifelse\obj\Debug\ifelse.pdb

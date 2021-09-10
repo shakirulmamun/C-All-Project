@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\While\bin\Debug\While.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\While\bin\Debug\While.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\While\bin\Debug\While.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\While\obj\Debug\While.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\While\obj\Debug\While.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\While\obj\Debug\While.pdb

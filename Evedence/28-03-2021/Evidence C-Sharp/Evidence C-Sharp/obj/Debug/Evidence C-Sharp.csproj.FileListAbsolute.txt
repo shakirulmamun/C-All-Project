@@ -1,0 +1,7 @@
+E:\C# Project\28-03-2021\Evidence C-Sharp\Evidence C-Sharp\bin\Debug\Evidence C-Sharp.exe.config
+E:\C# Project\28-03-2021\Evidence C-Sharp\Evidence C-Sharp\bin\Debug\Evidence C-Sharp.exe
+E:\C# Project\28-03-2021\Evidence C-Sharp\Evidence C-Sharp\bin\Debug\Evidence C-Sharp.pdb
+E:\C# Project\28-03-2021\Evidence C-Sharp\Evidence C-Sharp\obj\Debug\Evidence C-Sharp.csprojAssemblyReference.cache
+E:\C# Project\28-03-2021\Evidence C-Sharp\Evidence C-Sharp\obj\Debug\Evidence C-Sharp.csproj.CoreCompileInputs.cache
+E:\C# Project\28-03-2021\Evidence C-Sharp\Evidence C-Sharp\obj\Debug\Evidence C-Sharp.exe
+E:\C# Project\28-03-2021\Evidence C-Sharp\Evidence C-Sharp\obj\Debug\Evidence C-Sharp.pdb

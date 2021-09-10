@@ -1,0 +1,7 @@
+E:\C# Project\Vehicle Evidence\Vehicle Evidence\bin\Debug\Vehicle Evidence.exe.config
+E:\C# Project\Vehicle Evidence\Vehicle Evidence\bin\Debug\Vehicle Evidence.exe
+E:\C# Project\Vehicle Evidence\Vehicle Evidence\bin\Debug\Vehicle Evidence.pdb
+E:\C# Project\Vehicle Evidence\Vehicle Evidence\obj\Debug\Vehicle Evidence.csprojAssemblyReference.cache
+E:\C# Project\Vehicle Evidence\Vehicle Evidence\obj\Debug\Vehicle Evidence.csproj.CoreCompileInputs.cache
+E:\C# Project\Vehicle Evidence\Vehicle Evidence\obj\Debug\Vehicle Evidence.exe
+E:\C# Project\Vehicle Evidence\Vehicle Evidence\obj\Debug\Vehicle Evidence.pdb

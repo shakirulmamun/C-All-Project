@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Extension Method\Extension Method\bin\Debug\Extension Method.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Extension Method\Extension Method\bin\Debug\Extension Method.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Extension Method\Extension Method\bin\Debug\Extension Method.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Extension Method\Extension Method\obj\Debug\Extension Method.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Extension Method\Extension Method\obj\Debug\Extension Method.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Extension Method\Extension Method\obj\Debug\Extension Method.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Extension Method\Extension Method\obj\Debug\Extension Method.pdb

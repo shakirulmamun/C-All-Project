@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part\Practice Part\bin\Debug\Practice Part.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part\Practice Part\bin\Debug\Practice Part.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part\Practice Part\bin\Debug\Practice Part.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part\Practice Part\obj\Debug\Practice Part.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part\Practice Part\obj\Debug\Practice Part.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part\Practice Part\obj\Debug\Practice Part.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part\Practice Part\obj\Debug\Practice Part.pdb

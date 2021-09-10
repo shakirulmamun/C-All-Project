@@ -1,0 +1,14 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\bin\Debug\A to Z C-SHARP Code.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\bin\Debug\A to Z C-SHARP Code.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\bin\Debug\A to Z C-SHARP Code.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\obj\Debug\A to Z C-SHARP Code.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\obj\Debug\A to Z C-SHARP Code.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\obj\Debug\A to Z C-SHARP Code.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\obj\Debug\A to Z C-SHARP Code.pdb
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\bin\Debug\A to Z C-SHARP Code.exe.config
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\bin\Debug\A to Z C-SHARP Code.exe
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\bin\Debug\A to Z C-SHARP Code.pdb
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\obj\Debug\A to Z C-SHARP Code.csprojAssemblyReference.cache
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\obj\Debug\A to Z C-SHARP Code.csproj.CoreCompileInputs.cache
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\obj\Debug\A to Z C-SHARP Code.exe
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\A to Z C-SHARP Code\obj\Debug\A to Z C-SHARP Code.pdb

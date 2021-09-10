@@ -1,0 +1,6 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Contavarient\bin\Debug\Contavarient.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Contavarient\bin\Debug\Contavarient.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Contavarient\bin\Debug\Contavarient.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Contavarient\obj\Debug\Contavarient.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Contavarient\obj\Debug\Contavarient.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Contavarient\obj\Debug\Contavarient.pdb

@@ -1,0 +1,7 @@
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Product\bin\Debug\LINQ Product.exe.config
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Product\bin\Debug\LINQ Product.exe
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Product\bin\Debug\LINQ Product.pdb
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Product\obj\Debug\LINQ Product.csprojAssemblyReference.cache
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Product\obj\Debug\LINQ Product.csproj.CoreCompileInputs.cache
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Product\obj\Debug\LINQ Product.exe
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Product\obj\Debug\LINQ Product.pdb

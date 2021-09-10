@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Convarience and Contavariene\bin\Debug\Convarience and Contavariene.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Convarience and Contavariene\bin\Debug\Convarience and Contavariene.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Convarience and Contavariene\bin\Debug\Convarience and Contavariene.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Convarience and Contavariene\obj\Debug\Convarience and Contavariene.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Convarience and Contavariene\obj\Debug\Convarience and Contavariene.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Convarience and Contavariene\obj\Debug\Convarience and Contavariene.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Convarience and Contavariene\obj\Debug\Convarience and Contavariene.csprojAssemblyReference.cache

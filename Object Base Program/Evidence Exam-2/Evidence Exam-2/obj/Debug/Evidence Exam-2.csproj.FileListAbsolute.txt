@@ -1,0 +1,14 @@
+C:\C# Project\Evidence Exam-2\Evidence Exam-2\bin\Debug\Evidence Exam-2.exe.config
+C:\C# Project\Evidence Exam-2\Evidence Exam-2\bin\Debug\Evidence Exam-2.exe
+C:\C# Project\Evidence Exam-2\Evidence Exam-2\bin\Debug\Evidence Exam-2.pdb
+C:\C# Project\Evidence Exam-2\Evidence Exam-2\obj\Debug\Evidence Exam-2.csprojAssemblyReference.cache
+C:\C# Project\Evidence Exam-2\Evidence Exam-2\obj\Debug\Evidence Exam-2.csproj.CoreCompileInputs.cache
+C:\C# Project\Evidence Exam-2\Evidence Exam-2\obj\Debug\Evidence Exam-2.exe
+C:\C# Project\Evidence Exam-2\Evidence Exam-2\obj\Debug\Evidence Exam-2.pdb
+E:\C# Project\Evidence Exam-2\Evidence Exam-2\bin\Debug\Evidence Exam-2.exe.config
+E:\C# Project\Evidence Exam-2\Evidence Exam-2\bin\Debug\Evidence Exam-2.exe
+E:\C# Project\Evidence Exam-2\Evidence Exam-2\bin\Debug\Evidence Exam-2.pdb
+E:\C# Project\Evidence Exam-2\Evidence Exam-2\obj\Debug\Evidence Exam-2.csprojAssemblyReference.cache
+E:\C# Project\Evidence Exam-2\Evidence Exam-2\obj\Debug\Evidence Exam-2.csproj.CoreCompileInputs.cache
+E:\C# Project\Evidence Exam-2\Evidence Exam-2\obj\Debug\Evidence Exam-2.exe
+E:\C# Project\Evidence Exam-2\Evidence Exam-2\obj\Debug\Evidence Exam-2.pdb

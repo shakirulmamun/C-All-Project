@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\while\bin\Debug\@while.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\while\bin\Debug\@while.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\while\bin\Debug\@while.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\while\obj\Debug\@while.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\while\obj\Debug\@while.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\while\obj\Debug\while.csprojAssemblyReference.cache

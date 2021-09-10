@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Stack and Queue\bin\Debug\Stack and Queue.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Stack and Queue\bin\Debug\Stack and Queue.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Stack and Queue\bin\Debug\Stack and Queue.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Stack and Queue\obj\Debug\Stack and Queue.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Stack and Queue\obj\Debug\Stack and Queue.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Stack and Queue\obj\Debug\Stack and Queue.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Stack and Queue\obj\Debug\Stack and Queue.pdb

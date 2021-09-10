@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Method\Method\bin\Debug\Method.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Method\Method\bin\Debug\Method.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Method\Method\bin\Debug\Method.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Method\Method\obj\Debug\Method.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Method\Method\obj\Debug\Method.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Method\Method\obj\Debug\Method.pdb

@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Get and Set Accessor\bin\Debug\Get and Set Accessor.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Get and Set Accessor\bin\Debug\Get and Set Accessor.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Get and Set Accessor\bin\Debug\Get and Set Accessor.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Get and Set Accessor\obj\Debug\Get and Set Accessor.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Get and Set Accessor\obj\Debug\Get and Set Accessor.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Get and Set Accessor\obj\Debug\Get and Set Accessor.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Get and Set Accessor\obj\Debug\Get and Set Accessor.pdb

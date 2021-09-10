@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Static Method And Variable\bin\Debug\Static Method And Variable.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Static Method And Variable\bin\Debug\Static Method And Variable.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Static Method And Variable\bin\Debug\Static Method And Variable.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Static Method And Variable\obj\Debug\Static Method And Variable.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Static Method And Variable\obj\Debug\Static Method And Variable.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Static Method And Variable\obj\Debug\Static Method And Variable.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Static Method And Variable\obj\Debug\Static Method And Variable.pdb

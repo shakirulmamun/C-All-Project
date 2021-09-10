@@ -1,0 +1,7 @@
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\bin\Debug\Inheritance.exe.config
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\bin\Debug\Inheritance.exe
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\bin\Debug\Inheritance.pdb
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\obj\Debug\Drawing( Inheritance).csprojAssemblyReference.cache
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\obj\Debug\Drawing( Inheritance).csproj.CoreCompileInputs.cache
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\obj\Debug\Inheritance.exe
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\obj\Debug\Inheritance.pdb

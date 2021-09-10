@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Garbage Collection\Garbage Collection\bin\Debug\Garbage Collection.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Garbage Collection\Garbage Collection\bin\Debug\Garbage Collection.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Garbage Collection\Garbage Collection\bin\Debug\Garbage Collection.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Garbage Collection\Garbage Collection\obj\Debug\Garbage Collection.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Garbage Collection\Garbage Collection\obj\Debug\Garbage Collection.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Garbage Collection\Garbage Collection\obj\Debug\Garbage Collection.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Garbage Collection\Garbage Collection\obj\Debug\Garbage Collection.pdb

@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\PrefixandPostfix\bin\Debug\PrefixandPostfix.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\PrefixandPostfix\bin\Debug\PrefixandPostfix.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\PrefixandPostfix\bin\Debug\PrefixandPostfix.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\PrefixandPostfix\obj\Debug\PrefixandPostfix.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\PrefixandPostfix\obj\Debug\PrefixandPostfix.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\PrefixandPostfix\obj\Debug\PrefixandPostfix.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\PrefixandPostfix\obj\Debug\PrefixandPostfix.csprojAssemblyReference.cache

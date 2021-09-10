@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\EvedenceExam\bin\Debug\EvedenceExam.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\EvedenceExam\bin\Debug\EvedenceExam.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\EvedenceExam\bin\Debug\EvedenceExam.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\EvedenceExam\obj\Debug\EvedenceExam.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\EvedenceExam\obj\Debug\EvedenceExam.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\EvedenceExam\obj\Debug\EvedenceExam.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\EvedenceExam\obj\Debug\EvedenceExam.pdb

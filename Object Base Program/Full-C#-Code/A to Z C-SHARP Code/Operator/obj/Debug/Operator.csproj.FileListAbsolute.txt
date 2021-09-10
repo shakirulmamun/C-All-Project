@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Operator\bin\Debug\Operator.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Operator\bin\Debug\Operator.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Operator\bin\Debug\Operator.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Operator\obj\Debug\Operator.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Operator\obj\Debug\Operator.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Operator\obj\Debug\Operator.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Operator\obj\Debug\Operator.pdb

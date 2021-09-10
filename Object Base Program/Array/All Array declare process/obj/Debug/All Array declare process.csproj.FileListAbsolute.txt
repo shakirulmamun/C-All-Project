@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Array\All Array declare process\bin\Debug\All Array declare process.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Array\All Array declare process\bin\Debug\All Array declare process.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Array\All Array declare process\bin\Debug\All Array declare process.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Array\All Array declare process\obj\Debug\All Array declare process.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Array\All Array declare process\obj\Debug\All Array declare process.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Array\All Array declare process\obj\Debug\All Array declare process.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Array\All Array declare process\obj\Debug\All Array declare process.pdb

@@ -1,0 +1,7 @@
+E:\C# Project\University LINQ\UniversityLINQ\UniversityLINQ\bin\Debug\UniversityLINQ.exe.config
+E:\C# Project\University LINQ\UniversityLINQ\UniversityLINQ\bin\Debug\UniversityLINQ.exe
+E:\C# Project\University LINQ\UniversityLINQ\UniversityLINQ\bin\Debug\UniversityLINQ.pdb
+E:\C# Project\University LINQ\UniversityLINQ\UniversityLINQ\obj\Debug\UniversityLINQ.csprojAssemblyReference.cache
+E:\C# Project\University LINQ\UniversityLINQ\UniversityLINQ\obj\Debug\UniversityLINQ.csproj.CoreCompileInputs.cache
+E:\C# Project\University LINQ\UniversityLINQ\UniversityLINQ\obj\Debug\UniversityLINQ.exe
+E:\C# Project\University LINQ\UniversityLINQ\UniversityLINQ\obj\Debug\UniversityLINQ.pdb

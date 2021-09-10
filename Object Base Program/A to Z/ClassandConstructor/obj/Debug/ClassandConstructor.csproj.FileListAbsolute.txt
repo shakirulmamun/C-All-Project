@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ClassandConstructor\obj\Debug\ClassandConstructor.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ClassandConstructor\bin\Debug\ClassandConstructor.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ClassandConstructor\bin\Debug\ClassandConstructor.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ClassandConstructor\bin\Debug\ClassandConstructor.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ClassandConstructor\obj\Debug\ClassandConstructor.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ClassandConstructor\obj\Debug\ClassandConstructor.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ClassandConstructor\obj\Debug\ClassandConstructor.pdb

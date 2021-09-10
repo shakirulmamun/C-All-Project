@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Enum Interface\Enum Interface\bin\Debug\Enum Interface.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Enum Interface\Enum Interface\bin\Debug\Enum Interface.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Enum Interface\Enum Interface\bin\Debug\Enum Interface.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Enum Interface\Enum Interface\obj\Debug\Enum Interface.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Enum Interface\Enum Interface\obj\Debug\Enum Interface.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Enum Interface\Enum Interface\obj\Debug\Enum Interface.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Enum Interface\Enum Interface\obj\Debug\Enum Interface.pdb

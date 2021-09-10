@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Learn\bin\Debug\Generic Learn.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Learn\bin\Debug\Generic Learn.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Learn\bin\Debug\Generic Learn.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Learn\obj\Debug\Generic Learn.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Learn\obj\Debug\Generic Learn.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Learn\obj\Debug\Generic Learn.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Learn\obj\Debug\Generic Learn.pdb

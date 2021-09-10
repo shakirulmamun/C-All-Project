@@ -1,0 +1,7 @@
+E:\C# Project\C# A-Z\GenericExample\Struct\bin\Debug\Struct.exe.config
+E:\C# Project\C# A-Z\GenericExample\Struct\bin\Debug\Struct.exe
+E:\C# Project\C# A-Z\GenericExample\Struct\bin\Debug\Struct.pdb
+E:\C# Project\C# A-Z\GenericExample\Struct\obj\Debug\Struct.csprojAssemblyReference.cache
+E:\C# Project\C# A-Z\GenericExample\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+E:\C# Project\C# A-Z\GenericExample\Struct\obj\Debug\Struct.exe
+E:\C# Project\C# A-Z\GenericExample\Struct\obj\Debug\Struct.pdb

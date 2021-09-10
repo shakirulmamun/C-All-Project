@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ArgumentPass\bin\Debug\ArgumentPass.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ArgumentPass\bin\Debug\ArgumentPass.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ArgumentPass\bin\Debug\ArgumentPass.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ArgumentPass\obj\Debug\ArgumentPass.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ArgumentPass\obj\Debug\ArgumentPass.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ArgumentPass\obj\Debug\ArgumentPass.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\ArgumentPass\obj\Debug\ArgumentPass.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\C# Project\ProductLINQ\ProductLINQ\bin\Debug\ProductLINQ.exe.config
+E:\C# Project\ProductLINQ\ProductLINQ\bin\Debug\ProductLINQ.exe
+E:\C# Project\ProductLINQ\ProductLINQ\bin\Debug\ProductLINQ.pdb
+E:\C# Project\ProductLINQ\ProductLINQ\obj\Debug\ProductLINQ.csprojAssemblyReference.cache
+E:\C# Project\ProductLINQ\ProductLINQ\obj\Debug\ProductLINQ.csproj.CoreCompileInputs.cache
+E:\C# Project\ProductLINQ\ProductLINQ\obj\Debug\ProductLINQ.exe
+E:\C# Project\ProductLINQ\ProductLINQ\obj\Debug\ProductLINQ.pdb

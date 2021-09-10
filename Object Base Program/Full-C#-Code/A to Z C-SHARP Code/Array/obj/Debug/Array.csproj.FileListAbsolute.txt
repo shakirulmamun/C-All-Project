@@ -1,0 +1,14 @@
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Array\bin\Debug\Array.exe.config
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Array\bin\Debug\Array.exe
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Array\bin\Debug\Array.pdb
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Array\obj\Debug\Array.csprojAssemblyReference.cache
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Array\obj\Debug\Array.exe
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Array\obj\Debug\Array.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Array\bin\Debug\Array.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Array\bin\Debug\Array.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Array\bin\Debug\Array.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Array\obj\Debug\Array.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Array\obj\Debug\Array.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Array\obj\Debug\Array.pdb

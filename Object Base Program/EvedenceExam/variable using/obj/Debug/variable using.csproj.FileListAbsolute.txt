@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\variable using\bin\Debug\variable using.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\variable using\bin\Debug\variable using.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\variable using\bin\Debug\variable using.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\variable using\obj\Debug\variable using.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\variable using\obj\Debug\variable using.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\variable using\obj\Debug\variable using.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\variable using\obj\Debug\variable using.csprojAssemblyReference.cache

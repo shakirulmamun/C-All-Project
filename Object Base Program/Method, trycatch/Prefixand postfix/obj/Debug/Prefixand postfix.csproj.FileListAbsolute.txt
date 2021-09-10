@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\bin\Debug\Prefixand postfix.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\bin\Debug\Prefixand postfix.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\bin\Debug\Prefixand postfix.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\obj\Debug\Prefixand postfix.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\obj\Debug\Prefixand postfix.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\obj\Debug\Prefixand postfix.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\obj\Debug\Prefixand postfix.pdb

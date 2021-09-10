@@ -1,0 +1,6 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\do\obj\Debug\do.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\do\bin\Debug\@do.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\do\bin\Debug\@do.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\do\bin\Debug\@do.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\do\obj\Debug\@do.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\do\obj\Debug\@do.pdb

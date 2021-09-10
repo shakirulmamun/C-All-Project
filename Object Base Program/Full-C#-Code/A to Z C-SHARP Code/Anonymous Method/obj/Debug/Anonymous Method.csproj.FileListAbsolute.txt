@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous Method\bin\Debug\Anonymous Method.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous Method\bin\Debug\Anonymous Method.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous Method\bin\Debug\Anonymous Method.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous Method\obj\Debug\Anonymous Method.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous Method\obj\Debug\Anonymous Method.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous Method\obj\Debug\Anonymous Method.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous Method\obj\Debug\Anonymous Method.pdb

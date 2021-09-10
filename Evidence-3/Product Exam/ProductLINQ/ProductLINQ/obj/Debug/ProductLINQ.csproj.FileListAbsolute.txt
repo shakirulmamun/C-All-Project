@@ -1,0 +1,14 @@
+E:\C# Project\Product Exam\ProductLINQ\ProductLINQ\bin\Debug\ProductLINQ.exe.config
+E:\C# Project\Product Exam\ProductLINQ\ProductLINQ\bin\Debug\ProductLINQ.exe
+E:\C# Project\Product Exam\ProductLINQ\ProductLINQ\bin\Debug\ProductLINQ.pdb
+E:\C# Project\Product Exam\ProductLINQ\ProductLINQ\obj\Debug\ProductLINQ.csprojAssemblyReference.cache
+E:\C# Project\Product Exam\ProductLINQ\ProductLINQ\obj\Debug\ProductLINQ.csproj.CoreCompileInputs.cache
+E:\C# Project\Product Exam\ProductLINQ\ProductLINQ\obj\Debug\ProductLINQ.exe
+E:\C# Project\Product Exam\ProductLINQ\ProductLINQ\obj\Debug\ProductLINQ.pdb
+E:\C# Project\Evidence-3\Product Exam\ProductLINQ\ProductLINQ\bin\Debug\ProductLINQ.exe.config
+E:\C# Project\Evidence-3\Product Exam\ProductLINQ\ProductLINQ\bin\Debug\ProductLINQ.exe
+E:\C# Project\Evidence-3\Product Exam\ProductLINQ\ProductLINQ\bin\Debug\ProductLINQ.pdb
+E:\C# Project\Evidence-3\Product Exam\ProductLINQ\ProductLINQ\obj\Debug\ProductLINQ.csprojAssemblyReference.cache
+E:\C# Project\Evidence-3\Product Exam\ProductLINQ\ProductLINQ\obj\Debug\ProductLINQ.csproj.CoreCompileInputs.cache
+E:\C# Project\Evidence-3\Product Exam\ProductLINQ\ProductLINQ\obj\Debug\ProductLINQ.exe
+E:\C# Project\Evidence-3\Product Exam\ProductLINQ\ProductLINQ\obj\Debug\ProductLINQ.pdb

@@ -1,0 +1,7 @@
+E:\C# Project\28-03-2021\EvidencePart\EvidencePart\bin\Debug\EvidencePart.exe.config
+E:\C# Project\28-03-2021\EvidencePart\EvidencePart\bin\Debug\EvidencePart.exe
+E:\C# Project\28-03-2021\EvidencePart\EvidencePart\bin\Debug\EvidencePart.pdb
+E:\C# Project\28-03-2021\EvidencePart\EvidencePart\obj\Debug\EvidencePart.csprojAssemblyReference.cache
+E:\C# Project\28-03-2021\EvidencePart\EvidencePart\obj\Debug\EvidencePart.csproj.CoreCompileInputs.cache
+E:\C# Project\28-03-2021\EvidencePart\EvidencePart\obj\Debug\EvidencePart.exe
+E:\C# Project\28-03-2021\EvidencePart\EvidencePart\obj\Debug\EvidencePart.pdb

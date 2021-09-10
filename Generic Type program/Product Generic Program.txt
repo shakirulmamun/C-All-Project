@@ -1,0 +1,223 @@
+namespace GenericClass
+
+{
+
+    public class Category
+
+    {
+
+        public int CategoryID { get; set; }
+
+        public string CName { get; set; }
+
+ 
+
+        public static List<Category> Get()
+
+        {
+
+            var cList = new List<Category>();
+
+ 
+
+            var c1 = new Category();
+
+            c1.CategoryID = 1;
+
+            c1.CName = "Electronics";
+
+ 
+
+            var c2 = new Category();
+
+            c2.CategoryID = 2;
+
+            c2.CName = "Telecom";
+
+ 
+
+            cList.Add(c1);
+
+            cList.Add(c2);
+
+ 
+
+            return cList;
+
+        }
+
+    }
+
+}
+
+ 
+
+Product:
+
+namespace GenericClass
+
+{
+
+    public class Product
+
+    {
+
+        public int PID { get; set; }
+
+        public string PName { get; set; }
+
+        public int CID { get; set; }
+
+ 
+
+        public static List<Product> Get()
+
+        {
+
+            var pList = new List<Product>();
+
+ 
+
+            var p0 = new Product();
+
+            p0.PID = 1;
+
+            p0.PName = "Radio";
+
+            p0.CID = 1;
+
+            pList.Add(p0);
+
+ 
+
+            var p1 = new Product();
+
+            p1.PID = 2;
+
+            p1.PName = "Washing Machine";
+
+            p1.CID = 1;
+
+            pList.Add(p1);
+
+ 
+
+            var p2 = new Product();
+
+            p2.PID = 3;
+
+            p2.PName = "Water Hitter";
+
+            p2.CID = 1;
+
+            pList.Add(p2);
+
+ 
+
+            var p3 = new Product();
+
+            p3.PID = 4;
+
+            p3.PName = "Mobile Phone";
+
+            p3.CID = 2;
+
+            pList.Add(p3);
+
+ 
+
+            var p4 = new Product();
+
+            p4.PID = 5;
+
+            p4.PName = "Data Bank";
+
+            p4.CID = 2;
+
+            pList.Add(p4);
+
+ 
+
+            return pList;
+
+        }
+
+    }
+
+}
+
+ 
+
+Program:
+
+namespace GenericClass
+
+{
+
+    class Program
+
+    {
+
+        static void Main(string[] args)
+
+        {
+
+            var pList = Product.Get();
+
+            var cList = Category.Get();
+
+ 
+
+            Console.WriteLine("input a category to see products");
+
+            string cate = Console.ReadLine();
+
+ 
+
+            var result = (from p in pList
+
+                          join c in cList
+
+                          on p.CID equals c.CategoryID
+
+                          where c.CName == cate
+
+                          select new { p.PID, p.PName, c.CName}).ToList();
+
+ 
+
+            if (result.Count == 0)
+
+            {
+
+                Console.WriteLine("no product found regarding category " + cate);
+
+            }
+
+            else
+
+            {
+
+                Console.WriteLine("search result");
+
+                Console.WriteLine("Product ID   Product Name    Category");
+
+                foreach (var r in result)
+
+                {
+
+                    Console.WriteLine(r.PID + "             " + r.PName + "         " + r.CName);
+
+                }
+
+            }
+
+ 
+
+            Console.ReadKey();
+
+        }
+
+    }
+
+ 

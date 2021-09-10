@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Chapter-8\Chapter-8\bin\Debug\Chapter-8.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Chapter-8\Chapter-8\bin\Debug\Chapter-8.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Chapter-8\Chapter-8\bin\Debug\Chapter-8.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Chapter-8\Chapter-8\obj\Debug\Chapter-8.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Chapter-8\Chapter-8\obj\Debug\Chapter-8.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Chapter-8\Chapter-8\obj\Debug\Chapter-8.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Chapter-8\Chapter-8\obj\Debug\Chapter-8.pdb

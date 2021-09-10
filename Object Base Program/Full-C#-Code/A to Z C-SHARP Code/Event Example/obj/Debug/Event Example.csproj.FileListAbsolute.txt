@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Event Example\bin\Debug\Event Example.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Event Example\bin\Debug\Event Example.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Event Example\bin\Debug\Event Example.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Event Example\obj\Debug\Event Example.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Event Example\obj\Debug\Event Example.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Event Example\obj\Debug\Event Example.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Event Example\obj\Debug\Event Example.pdb

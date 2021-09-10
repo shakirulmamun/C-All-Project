@@ -1,0 +1,12 @@
+public delegate void MyDelegate(string message);
+        public static void MyMethod(string msg)
+        {
+            Console.WriteLine(msg);
+        }
+        static void MyMethodWithCallback(int param1, int param2, MyDelegate Callback)
+        { 
+            Callback("number is :" + (param1 + param2).ToString()); 
+        }
+MyDelegate handle = MyMethod;
+            handle("Hello");
+            MyMethodWithCallback(2, 4, handle);

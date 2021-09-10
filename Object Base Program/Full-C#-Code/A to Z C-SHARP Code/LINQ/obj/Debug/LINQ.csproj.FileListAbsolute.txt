@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\LINQ\bin\Debug\LINQ.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\LINQ\bin\Debug\LINQ.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\LINQ\bin\Debug\LINQ.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\LINQ\obj\Debug\LINQ.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\LINQ\obj\Debug\LINQ.pdb

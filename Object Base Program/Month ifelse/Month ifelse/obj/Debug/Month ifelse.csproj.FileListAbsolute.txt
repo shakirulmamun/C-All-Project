@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month ifelse\Month ifelse\bin\Debug\Month ifelse.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month ifelse\Month ifelse\bin\Debug\Month ifelse.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month ifelse\Month ifelse\bin\Debug\Month ifelse.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month ifelse\Month ifelse\obj\Debug\Month ifelse.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month ifelse\Month ifelse\obj\Debug\Month ifelse.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month ifelse\Month ifelse\obj\Debug\Month ifelse.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month ifelse\Month ifelse\obj\Debug\Month ifelse.pdb

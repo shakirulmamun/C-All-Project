@@ -1,0 +1,6 @@
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\return\bin\Debug\@return.exe.config
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\return\bin\Debug\@return.exe
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\return\bin\Debug\@return.pdb
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\return\obj\Debug\return.csproj.CoreCompileInputs.cache
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\return\obj\Debug\@return.exe
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\return\obj\Debug\@return.pdb

@@ -1,0 +1,7 @@
+E:\C# Project\Generic Type program\Enumeration\Enumeration\bin\Debug\Enumeration.exe.config
+E:\C# Project\Generic Type program\Enumeration\Enumeration\bin\Debug\Enumeration.exe
+E:\C# Project\Generic Type program\Enumeration\Enumeration\bin\Debug\Enumeration.pdb
+E:\C# Project\Generic Type program\Enumeration\Enumeration\obj\Debug\Enumeration.csprojAssemblyReference.cache
+E:\C# Project\Generic Type program\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.CoreCompileInputs.cache
+E:\C# Project\Generic Type program\Enumeration\Enumeration\obj\Debug\Enumeration.exe
+E:\C# Project\Generic Type program\Enumeration\Enumeration\obj\Debug\Enumeration.pdb

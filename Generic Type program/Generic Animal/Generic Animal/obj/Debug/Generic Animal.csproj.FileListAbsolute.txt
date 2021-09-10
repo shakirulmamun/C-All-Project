@@ -1,0 +1,7 @@
+E:\C# Project\Generic Type program\Generic Animal\Generic Animal\bin\Debug\Generic Animal.exe.config
+E:\C# Project\Generic Type program\Generic Animal\Generic Animal\bin\Debug\Generic Animal.exe
+E:\C# Project\Generic Type program\Generic Animal\Generic Animal\bin\Debug\Generic Animal.pdb
+E:\C# Project\Generic Type program\Generic Animal\Generic Animal\obj\Debug\Generic Animal.csprojAssemblyReference.cache
+E:\C# Project\Generic Type program\Generic Animal\Generic Animal\obj\Debug\Generic Animal.csproj.CoreCompileInputs.cache
+E:\C# Project\Generic Type program\Generic Animal\Generic Animal\obj\Debug\Generic Animal.exe
+E:\C# Project\Generic Type program\Generic Animal\Generic Animal\obj\Debug\Generic Animal.pdb

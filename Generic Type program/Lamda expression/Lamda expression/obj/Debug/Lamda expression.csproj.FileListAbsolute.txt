@@ -1,0 +1,7 @@
+E:\C# Project\Generic Type program\Lamda expression\Lamda expression\bin\Debug\Lamda expression.exe.config
+E:\C# Project\Generic Type program\Lamda expression\Lamda expression\bin\Debug\Lamda expression.exe
+E:\C# Project\Generic Type program\Lamda expression\Lamda expression\bin\Debug\Lamda expression.pdb
+E:\C# Project\Generic Type program\Lamda expression\Lamda expression\obj\Debug\Lamda expression.csprojAssemblyReference.cache
+E:\C# Project\Generic Type program\Lamda expression\Lamda expression\obj\Debug\Lamda expression.csproj.CoreCompileInputs.cache
+E:\C# Project\Generic Type program\Lamda expression\Lamda expression\obj\Debug\Lamda expression.exe
+E:\C# Project\Generic Type program\Lamda expression\Lamda expression\obj\Debug\Lamda expression.pdb

@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\NestingMethod\obj\Debug\NestingMethod.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\NestingMethod\obj\Debug\NestingMethod.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\NestingMethod\bin\Debug\NestingMethod.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\NestingMethod\bin\Debug\NestingMethod.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\NestingMethod\bin\Debug\NestingMethod.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\NestingMethod\obj\Debug\NestingMethod.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\NestingMethod\obj\Debug\NestingMethod.pdb

@@ -1,0 +1,14 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\bin\Debug\Prefixand postfix.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\bin\Debug\Prefixand postfix.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\bin\Debug\Prefixand postfix.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\obj\Debug\Result Calculate.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\obj\Debug\Result Calculate.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\obj\Debug\Prefixand postfix.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\Prefixand postfix\obj\Debug\Prefixand postfix.pdb
+E:\C# Project\Method, trycatch\Prefixand postfix\bin\Debug\Prefixand postfix.exe.config
+E:\C# Project\Method, trycatch\Prefixand postfix\bin\Debug\Prefixand postfix.exe
+E:\C# Project\Method, trycatch\Prefixand postfix\bin\Debug\Prefixand postfix.pdb
+E:\C# Project\Method, trycatch\Prefixand postfix\obj\Debug\Result Calculate.csprojAssemblyReference.cache
+E:\C# Project\Method, trycatch\Prefixand postfix\obj\Debug\Result Calculate.csproj.CoreCompileInputs.cache
+E:\C# Project\Method, trycatch\Prefixand postfix\obj\Debug\Prefixand postfix.exe
+E:\C# Project\Method, trycatch\Prefixand postfix\obj\Debug\Prefixand postfix.pdb

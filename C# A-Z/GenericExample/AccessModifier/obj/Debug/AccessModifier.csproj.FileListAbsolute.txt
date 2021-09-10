@@ -1,0 +1,7 @@
+E:\C# Project\C# A-Z\GenericExample\AccessModifier\bin\Debug\AccessModifier.exe.config
+E:\C# Project\C# A-Z\GenericExample\AccessModifier\bin\Debug\AccessModifier.exe
+E:\C# Project\C# A-Z\GenericExample\AccessModifier\bin\Debug\AccessModifier.pdb
+E:\C# Project\C# A-Z\GenericExample\AccessModifier\obj\Debug\AccessModifier.csprojAssemblyReference.cache
+E:\C# Project\C# A-Z\GenericExample\AccessModifier\obj\Debug\AccessModifier.csproj.CoreCompileInputs.cache
+E:\C# Project\C# A-Z\GenericExample\AccessModifier\obj\Debug\AccessModifier.exe
+E:\C# Project\C# A-Z\GenericExample\AccessModifier\obj\Debug\AccessModifier.pdb

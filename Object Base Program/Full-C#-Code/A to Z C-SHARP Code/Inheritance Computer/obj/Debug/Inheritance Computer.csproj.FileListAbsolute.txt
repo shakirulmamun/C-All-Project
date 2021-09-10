@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Inheritance Computer\bin\Debug\Inheritance Computer.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Inheritance Computer\bin\Debug\Inheritance Computer.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Inheritance Computer\bin\Debug\Inheritance Computer.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Inheritance Computer\obj\Debug\Inheritance Computer.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Inheritance Computer\obj\Debug\Inheritance Computer.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Inheritance Computer\obj\Debug\Inheritance Computer.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Inheritance Computer\obj\Debug\Inheritance Computer.pdb

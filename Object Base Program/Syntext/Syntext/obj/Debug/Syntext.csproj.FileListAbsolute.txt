@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Syntext\Syntext\bin\Debug\Syntext.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Syntext\Syntext\bin\Debug\Syntext.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Syntext\Syntext\bin\Debug\Syntext.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Syntext\Syntext\obj\Debug\Syntext.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Syntext\Syntext\obj\Debug\Syntext.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Syntext\Syntext\obj\Debug\Syntext.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Syntext\Syntext\obj\Debug\Syntext.pdb

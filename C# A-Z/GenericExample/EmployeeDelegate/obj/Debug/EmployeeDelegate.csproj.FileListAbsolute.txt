@@ -1,0 +1,7 @@
+E:\C# Project\C# A-Z\GenericExample\EmployeeDelegate\bin\Debug\EmployeeDelegate.exe.config
+E:\C# Project\C# A-Z\GenericExample\EmployeeDelegate\bin\Debug\EmployeeDelegate.exe
+E:\C# Project\C# A-Z\GenericExample\EmployeeDelegate\bin\Debug\EmployeeDelegate.pdb
+E:\C# Project\C# A-Z\GenericExample\EmployeeDelegate\obj\Debug\EmployeeDelegate.csproj.CoreCompileInputs.cache
+E:\C# Project\C# A-Z\GenericExample\EmployeeDelegate\obj\Debug\EmployeeDelegate.exe
+E:\C# Project\C# A-Z\GenericExample\EmployeeDelegate\obj\Debug\EmployeeDelegate.pdb
+E:\C# Project\C# A-Z\GenericExample\EmployeeDelegate\obj\Debug\EmployeeDelegate.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Lamda Expression\bin\Debug\Lamda Expression.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Lamda Expression\bin\Debug\Lamda Expression.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Lamda Expression\bin\Debug\Lamda Expression.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Lamda Expression\obj\Debug\Lamda Expression.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Lamda Expression\obj\Debug\Lamda Expression.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Lamda Expression\obj\Debug\Lamda Expression.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Lamda Expression\obj\Debug\Lamda Expression.pdb

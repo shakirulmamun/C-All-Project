@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\ForLoop\obj\Debug\ForLoop.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\ForLoop\obj\Debug\ForLoop.csprojAssemblyReference.cache

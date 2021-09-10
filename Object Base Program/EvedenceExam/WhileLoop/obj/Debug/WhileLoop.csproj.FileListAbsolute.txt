@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\WhileLoop\obj\Debug\WhileLoop.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\EvedenceExam\WhileLoop\obj\Debug\WhileLoop.pdb

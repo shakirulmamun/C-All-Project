@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Boxing Example\bin\Debug\Boxing Example.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Boxing Example\bin\Debug\Boxing Example.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Boxing Example\bin\Debug\Boxing Example.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Boxing Example\obj\Debug\Boxing Example.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Boxing Example\obj\Debug\Boxing Example.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Boxing Example\obj\Debug\Boxing Example.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Boxing Example\obj\Debug\Boxing Example.pdb

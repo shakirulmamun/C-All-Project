@@ -1,0 +1,7 @@
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Project(Mam)\bin\Debug\LINQ Project(Mam).exe.config
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Project(Mam)\bin\Debug\LINQ Project(Mam).exe
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Project(Mam)\bin\Debug\LINQ Project(Mam).pdb
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Project(Mam)\obj\Debug\LINQ Project(Mam).csprojAssemblyReference.cache
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Project(Mam)\obj\Debug\LINQ Project(Mam).csproj.CoreCompileInputs.cache
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Project(Mam)\obj\Debug\LINQ Project(Mam).exe
+E:\C# Project\Generic Type program\LINQ\LINQ\LINQ Project(Mam)\obj\Debug\LINQ Project(Mam).pdb

@@ -1,0 +1,6 @@
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Throw\bin\Debug\Throw.exe.config
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Throw\bin\Debug\Throw.exe
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Throw\bin\Debug\Throw.pdb
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Throw\obj\Debug\Throw.csproj.CoreCompileInputs.cache
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Throw\obj\Debug\Throw.exe
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\Throw\obj\Debug\Throw.pdb

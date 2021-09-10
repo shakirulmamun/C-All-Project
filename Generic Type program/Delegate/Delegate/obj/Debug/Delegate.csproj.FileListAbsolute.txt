@@ -1,0 +1,7 @@
+E:\C# Project\Generic Type program\Delegate\Delegate\bin\Debug\Delegate.exe.config
+E:\C# Project\Generic Type program\Delegate\Delegate\bin\Debug\Delegate.exe
+E:\C# Project\Generic Type program\Delegate\Delegate\bin\Debug\Delegate.pdb
+E:\C# Project\Generic Type program\Delegate\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+E:\C# Project\Generic Type program\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+E:\C# Project\Generic Type program\Delegate\Delegate\obj\Debug\Delegate.exe
+E:\C# Project\Generic Type program\Delegate\Delegate\obj\Debug\Delegate.pdb

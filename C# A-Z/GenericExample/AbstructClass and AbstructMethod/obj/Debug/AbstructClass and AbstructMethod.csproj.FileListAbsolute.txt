@@ -1,0 +1,7 @@
+E:\C# Project\C# A-Z\GenericExample\AbstructClass and AbstructMethod\bin\Debug\AbstructClass and AbstructMethod.exe.config
+E:\C# Project\C# A-Z\GenericExample\AbstructClass and AbstructMethod\bin\Debug\AbstructClass and AbstructMethod.exe
+E:\C# Project\C# A-Z\GenericExample\AbstructClass and AbstructMethod\bin\Debug\AbstructClass and AbstructMethod.pdb
+E:\C# Project\C# A-Z\GenericExample\AbstructClass and AbstructMethod\obj\Debug\AbstructClass and AbstructMethod.csprojAssemblyReference.cache
+E:\C# Project\C# A-Z\GenericExample\AbstructClass and AbstructMethod\obj\Debug\AbstructClass and AbstructMethod.csproj.CoreCompileInputs.cache
+E:\C# Project\C# A-Z\GenericExample\AbstructClass and AbstructMethod\obj\Debug\AbstructClass and AbstructMethod.exe
+E:\C# Project\C# A-Z\GenericExample\AbstructClass and AbstructMethod\obj\Debug\AbstructClass and AbstructMethod.pdb

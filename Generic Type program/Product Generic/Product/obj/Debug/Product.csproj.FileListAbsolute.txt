@@ -1,0 +1,7 @@
+E:\C# Project\Generic Type program\Product\Product\bin\Debug\Product.exe.config
+E:\C# Project\Generic Type program\Product\Product\bin\Debug\Product.exe
+E:\C# Project\Generic Type program\Product\Product\bin\Debug\Product.pdb
+E:\C# Project\Generic Type program\Product\Product\obj\Debug\Product.csprojAssemblyReference.cache
+E:\C# Project\Generic Type program\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+E:\C# Project\Generic Type program\Product\Product\obj\Debug\Product.exe
+E:\C# Project\Generic Type program\Product\Product\obj\Debug\Product.pdb

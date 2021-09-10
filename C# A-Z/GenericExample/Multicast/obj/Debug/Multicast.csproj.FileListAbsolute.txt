@@ -1,0 +1,7 @@
+E:\C# Project\C# A-Z\GenericExample\Multicast\bin\Debug\Multicast.exe.config
+E:\C# Project\C# A-Z\GenericExample\Multicast\bin\Debug\Multicast.exe
+E:\C# Project\C# A-Z\GenericExample\Multicast\bin\Debug\Multicast.pdb
+E:\C# Project\C# A-Z\GenericExample\Multicast\obj\Debug\Multicast.csproj.CoreCompileInputs.cache
+E:\C# Project\C# A-Z\GenericExample\Multicast\obj\Debug\Multicast.exe
+E:\C# Project\C# A-Z\GenericExample\Multicast\obj\Debug\Multicast.pdb
+E:\C# Project\C# A-Z\GenericExample\Multicast\obj\Debug\Multicast.csprojAssemblyReference.cache

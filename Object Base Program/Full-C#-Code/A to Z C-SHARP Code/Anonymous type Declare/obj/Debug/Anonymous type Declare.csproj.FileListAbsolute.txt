@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous type Declare\bin\Debug\Anonymous type Declare.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous type Declare\bin\Debug\Anonymous type Declare.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous type Declare\bin\Debug\Anonymous type Declare.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous type Declare\obj\Debug\Anonymous type Declare.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous type Declare\obj\Debug\Anonymous type Declare.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous type Declare\obj\Debug\Anonymous type Declare.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Anonymous type Declare\obj\Debug\Anonymous type Declare.pdb

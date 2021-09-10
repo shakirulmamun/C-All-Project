@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Example\bin\Debug\Generic Example.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Example\bin\Debug\Generic Example.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Example\bin\Debug\Generic Example.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Example\obj\Debug\Generic Example.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Example\obj\Debug\Generic Example.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Example\obj\Debug\Generic Example.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Generic Example\obj\Debug\Generic Example.pdb

@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Method\bin\Debug\Method.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Method\bin\Debug\Method.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Method\bin\Debug\Method.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Method\obj\Debug\Method.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Method\obj\Debug\Method.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Method\obj\Debug\Method.pdb

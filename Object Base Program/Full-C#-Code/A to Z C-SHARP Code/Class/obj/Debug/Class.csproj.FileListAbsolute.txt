@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Class\bin\Debug\Class.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Class\bin\Debug\Class.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Class\bin\Debug\Class.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Class\obj\Debug\Class.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Class\obj\Debug\Class.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Class\obj\Debug\Class.pdb

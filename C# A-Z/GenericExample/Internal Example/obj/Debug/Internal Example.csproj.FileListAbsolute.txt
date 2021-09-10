@@ -1,0 +1,5 @@
+E:\C# Project\C# A-Z\GenericExample\Internal Example\bin\Debug\Internal Example.dll
+E:\C# Project\C# A-Z\GenericExample\Internal Example\bin\Debug\Internal Example.pdb
+E:\C# Project\C# A-Z\GenericExample\Internal Example\obj\Debug\Internal Example.csproj.CoreCompileInputs.cache
+E:\C# Project\C# A-Z\GenericExample\Internal Example\obj\Debug\Internal Example.dll
+E:\C# Project\C# A-Z\GenericExample\Internal Example\obj\Debug\Internal Example.pdb

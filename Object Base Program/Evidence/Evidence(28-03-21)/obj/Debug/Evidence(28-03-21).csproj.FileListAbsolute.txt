@@ -1,0 +1,14 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Evidence\Evidence(28-03-21)\bin\Debug\Evidence(28-03-21).exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Evidence\Evidence(28-03-21)\bin\Debug\Evidence(28-03-21).exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Evidence\Evidence(28-03-21)\bin\Debug\Evidence(28-03-21).pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Evidence\Evidence(28-03-21)\obj\Debug\Evidence(28-03-21).csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Evidence\Evidence(28-03-21)\obj\Debug\Evidence(28-03-21).csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Evidence\Evidence(28-03-21)\obj\Debug\Evidence(28-03-21).exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Evidence\Evidence(28-03-21)\obj\Debug\Evidence(28-03-21).pdb
+E:\C# Project\Evidence\Evidence(28-03-21)\bin\Debug\Evidence(28-03-21).exe.config
+E:\C# Project\Evidence\Evidence(28-03-21)\bin\Debug\Evidence(28-03-21).exe
+E:\C# Project\Evidence\Evidence(28-03-21)\bin\Debug\Evidence(28-03-21).pdb
+E:\C# Project\Evidence\Evidence(28-03-21)\obj\Debug\Evidence(28-03-21).csprojAssemblyReference.cache
+E:\C# Project\Evidence\Evidence(28-03-21)\obj\Debug\Evidence(28-03-21).csproj.CoreCompileInputs.cache
+E:\C# Project\Evidence\Evidence(28-03-21)\obj\Debug\Evidence(28-03-21).exe
+E:\C# Project\Evidence\Evidence(28-03-21)\obj\Debug\Evidence(28-03-21).pdb

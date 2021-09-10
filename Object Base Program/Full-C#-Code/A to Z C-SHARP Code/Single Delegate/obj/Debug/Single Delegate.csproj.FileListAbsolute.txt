@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Single Delegate\bin\Debug\Single Delegate.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Single Delegate\bin\Debug\Single Delegate.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Single Delegate\bin\Debug\Single Delegate.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Single Delegate\obj\Debug\Single Delegate.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Single Delegate\obj\Debug\Single Delegate.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Single Delegate\obj\Debug\Single Delegate.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Single Delegate\obj\Debug\Single Delegate.pdb

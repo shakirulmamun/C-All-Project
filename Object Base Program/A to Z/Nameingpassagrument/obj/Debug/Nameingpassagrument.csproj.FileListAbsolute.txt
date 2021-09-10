@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\Nameingpassagrument\bin\Debug\Nameingpassagrument.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\Nameingpassagrument\bin\Debug\Nameingpassagrument.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\Nameingpassagrument\bin\Debug\Nameingpassagrument.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\Nameingpassagrument\obj\Debug\Nameingpassagrument.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\Nameingpassagrument\obj\Debug\Nameingpassagrument.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\Nameingpassagrument\obj\Debug\Nameingpassagrument.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Practice Part1\Nameingpassagrument\obj\Debug\Nameingpassagrument.pdb

@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Do While\bin\Debug\Do While.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Do While\bin\Debug\Do While.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Do While\bin\Debug\Do While.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Do While\obj\Debug\Do While.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Do While\obj\Debug\Do While.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Do While\obj\Debug\Do While.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Do While\obj\Debug\Do While.csprojAssemblyReference.cache

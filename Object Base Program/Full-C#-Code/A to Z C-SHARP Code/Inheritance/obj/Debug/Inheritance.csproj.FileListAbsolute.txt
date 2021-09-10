@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Full C# Code\A to Z C-SHARP Code\Inheritance\obj\Debug\Inheritance.pdb

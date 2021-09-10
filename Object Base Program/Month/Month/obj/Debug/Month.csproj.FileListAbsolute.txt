@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month\Month\obj\Debug\Month.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month\Month\obj\Debug\Month.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month\Month\bin\Debug\Month.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month\Month\bin\Debug\Month.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month\Month\bin\Debug\Month.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month\Month\obj\Debug\Month.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Month\Month\obj\Debug\Month.pdb

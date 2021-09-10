@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Interface\Implicit Interface\bin\Debug\Implicit Interface.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Interface\Implicit Interface\bin\Debug\Implicit Interface.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Interface\Implicit Interface\bin\Debug\Implicit Interface.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Interface\Implicit Interface\obj\Debug\Implicit Interface.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Interface\Implicit Interface\obj\Debug\Implicit Interface.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Interface\Implicit Interface\obj\Debug\Implicit Interface.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Interface\Implicit Interface\obj\Debug\Implicit Interface.pdb

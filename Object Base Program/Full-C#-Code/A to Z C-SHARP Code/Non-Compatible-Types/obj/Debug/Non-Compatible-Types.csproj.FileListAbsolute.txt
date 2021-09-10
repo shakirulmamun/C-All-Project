@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Non-Compatible-Types\bin\Debug\Non-Compatible-Types.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Non-Compatible-Types\bin\Debug\Non-Compatible-Types.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Non-Compatible-Types\bin\Debug\Non-Compatible-Types.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Non-Compatible-Types\obj\Debug\Non-Compatible-Types.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Non-Compatible-Types\obj\Debug\Non-Compatible-Types.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Non-Compatible-Types\obj\Debug\Non-Compatible-Types.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Non-Compatible-Types\obj\Debug\Non-Compatible-Types.pdb

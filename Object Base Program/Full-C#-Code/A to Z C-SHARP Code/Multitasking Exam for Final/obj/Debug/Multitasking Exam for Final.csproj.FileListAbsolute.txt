@@ -1,0 +1,7 @@
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Multitasking Exam for Final\bin\Debug\Multitasking Exam for Final.exe.config
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Multitasking Exam for Final\bin\Debug\Multitasking Exam for Final.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Multitasking Exam for Final\bin\Debug\Multitasking Exam for Final.pdb
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Multitasking Exam for Final\obj\Debug\Multitasking Exam for Final.csprojAssemblyReference.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Multitasking Exam for Final\obj\Debug\Multitasking Exam for Final.csproj.CoreCompileInputs.cache
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Multitasking Exam for Final\obj\Debug\Multitasking Exam for Final.exe
+E:\C# Project\Object Base Program\Full C# Code\A to Z C-SHARP Code\Multitasking Exam for Final\obj\Debug\Multitasking Exam for Final.pdb

@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Result\bin\Debug\Result.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Result\bin\Debug\Result.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Result\bin\Debug\Result.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Result\obj\Debug\Result.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Result\obj\Debug\Result.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Result\obj\Debug\Result.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Result\Result\obj\Debug\Result.pdb

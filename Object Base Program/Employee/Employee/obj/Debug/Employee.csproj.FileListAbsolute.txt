@@ -1,0 +1,14 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Employee\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Employee\Employee\obj\Debug\Employee.pdb
+E:\C# Project\Employee\Employee\bin\Debug\Employee.exe.config
+E:\C# Project\Employee\Employee\bin\Debug\Employee.exe
+E:\C# Project\Employee\Employee\bin\Debug\Employee.pdb
+E:\C# Project\Employee\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+E:\C# Project\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+E:\C# Project\Employee\Employee\obj\Debug\Employee.exe
+E:\C# Project\Employee\Employee\obj\Debug\Employee.pdb

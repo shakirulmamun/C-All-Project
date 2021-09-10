@@ -1,0 +1,7 @@
+E:\C# Project\Generic Type program\Delegate\Employee Promotion(With Delegte)\obj\Debug\Employee Promotion(With Delegte).csprojAssemblyReference.cache
+E:\C# Project\Generic Type program\Delegate\Employee Promotion(With Delegte)\obj\Debug\Employee Promotion(With Delegte).csproj.CoreCompileInputs.cache
+E:\C# Project\Generic Type program\Delegate\Employee Promotion(With Delegte)\bin\Debug\Employee Promotion(With Delegte).exe.config
+E:\C# Project\Generic Type program\Delegate\Employee Promotion(With Delegte)\bin\Debug\Employee Promotion(With Delegte).exe
+E:\C# Project\Generic Type program\Delegate\Employee Promotion(With Delegte)\bin\Debug\Employee Promotion(With Delegte).pdb
+E:\C# Project\Generic Type program\Delegate\Employee Promotion(With Delegte)\obj\Debug\Employee Promotion(With Delegte).exe
+E:\C# Project\Generic Type program\Delegate\Employee Promotion(With Delegte)\obj\Debug\Employee Promotion(With Delegte).pdb

@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\rrrrrrrr\bin\Debug\rrrrrrrr.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\rrrrrrrr\bin\Debug\rrrrrrrr.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\rrrrrrrr\bin\Debug\rrrrrrrr.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\rrrrrrrr\obj\Debug\rrrrrrrr.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\rrrrrrrr\obj\Debug\rrrrrrrr.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\rrrrrrrr\obj\Debug\rrrrrrrr.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\A to Z\rrrrrrrr\obj\Debug\rrrrrrrr.pdb

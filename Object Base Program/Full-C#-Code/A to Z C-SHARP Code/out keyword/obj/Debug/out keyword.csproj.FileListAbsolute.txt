@@ -1,0 +1,7 @@
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\out keyword\bin\Debug\out keyword.exe.config
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\out keyword\bin\Debug\out keyword.exe
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\out keyword\bin\Debug\out keyword.pdb
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\out keyword\obj\Debug\out keyword.csprojAssemblyReference.cache
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\out keyword\obj\Debug\out keyword.csproj.CoreCompileInputs.cache
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\out keyword\obj\Debug\out keyword.exe
+E:\C# Project\Full C# Code\A to Z C-SHARP Code\out keyword\obj\Debug\out keyword.pdb

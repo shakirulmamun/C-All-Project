@@ -1,0 +1,7 @@
+E:\C# Project\Generic Type program\Delegate\Delegate (with Lamda Expression)\bin\Debug\Delegate (with Lamda Expression).exe.config
+E:\C# Project\Generic Type program\Delegate\Delegate (with Lamda Expression)\bin\Debug\Delegate (with Lamda Expression).exe
+E:\C# Project\Generic Type program\Delegate\Delegate (with Lamda Expression)\bin\Debug\Delegate (with Lamda Expression).pdb
+E:\C# Project\Generic Type program\Delegate\Delegate (with Lamda Expression)\obj\Debug\Delegate (with Lamda Expression).csprojAssemblyReference.cache
+E:\C# Project\Generic Type program\Delegate\Delegate (with Lamda Expression)\obj\Debug\Delegate (with Lamda Expression).csproj.CoreCompileInputs.cache
+E:\C# Project\Generic Type program\Delegate\Delegate (with Lamda Expression)\obj\Debug\Delegate (with Lamda Expression).exe
+E:\C# Project\Generic Type program\Delegate\Delegate (with Lamda Expression)\obj\Debug\Delegate (with Lamda Expression).pdb

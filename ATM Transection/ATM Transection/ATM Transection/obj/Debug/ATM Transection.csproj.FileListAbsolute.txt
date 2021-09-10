@@ -1,0 +1,7 @@
+E:\C# Project\ATM Transection\ATM Transection\ATM Transection\bin\Debug\ATM Transection.exe.config
+E:\C# Project\ATM Transection\ATM Transection\ATM Transection\bin\Debug\ATM Transection.exe
+E:\C# Project\ATM Transection\ATM Transection\ATM Transection\bin\Debug\ATM Transection.pdb
+E:\C# Project\ATM Transection\ATM Transection\ATM Transection\obj\Debug\ATM Transection.csprojAssemblyReference.cache
+E:\C# Project\ATM Transection\ATM Transection\ATM Transection\obj\Debug\ATM Transection.csproj.CoreCompileInputs.cache
+E:\C# Project\ATM Transection\ATM Transection\ATM Transection\obj\Debug\ATM Transection.exe
+E:\C# Project\ATM Transection\ATM Transection\ATM Transection\obj\Debug\ATM Transection.pdb

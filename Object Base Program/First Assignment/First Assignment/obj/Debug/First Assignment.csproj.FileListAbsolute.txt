@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C#\First Assignment\First Assignment\bin\Debug\First Assignment.exe.config
+C:\Users\shaki\OneDrive\Desktop\C#\First Assignment\First Assignment\bin\Debug\First Assignment.exe
+C:\Users\shaki\OneDrive\Desktop\C#\First Assignment\First Assignment\bin\Debug\First Assignment.pdb
+C:\Users\shaki\OneDrive\Desktop\C#\First Assignment\First Assignment\obj\Debug\First Assignment.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C#\First Assignment\First Assignment\obj\Debug\First Assignment.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C#\First Assignment\First Assignment\obj\Debug\First Assignment.exe
+C:\Users\shaki\OneDrive\Desktop\C#\First Assignment\First Assignment\obj\Debug\First Assignment.pdb

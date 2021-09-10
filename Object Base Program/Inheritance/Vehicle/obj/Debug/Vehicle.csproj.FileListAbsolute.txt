@@ -1,0 +1,7 @@
+C:\Users\shaki\OneDrive\Desktop\C# Project\Inheritance\Vehicle\obj\Debug\Vehicle.csprojAssemblyReference.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Inheritance\Vehicle\obj\Debug\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\shaki\OneDrive\Desktop\C# Project\Inheritance\Vehicle\bin\Debug\Vehicle.exe.config
+C:\Users\shaki\OneDrive\Desktop\C# Project\Inheritance\Vehicle\bin\Debug\Vehicle.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Inheritance\Vehicle\bin\Debug\Vehicle.pdb
+C:\Users\shaki\OneDrive\Desktop\C# Project\Inheritance\Vehicle\obj\Debug\Vehicle.exe
+C:\Users\shaki\OneDrive\Desktop\C# Project\Inheritance\Vehicle\obj\Debug\Vehicle.pdb
